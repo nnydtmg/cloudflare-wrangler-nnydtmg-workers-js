@@ -1,3 +1,7 @@
 name = "nnydtmg-workers-js"
 main = "src/index.js"
 compatibility_date = "2023-03-02"
+
+routes = [
+  {pattern = "jstest.nnydtmg.com", custom_domain = true}
+]
