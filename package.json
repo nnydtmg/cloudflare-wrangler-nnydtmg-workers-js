@@ -2,7 +2,7 @@
   "name": "nnydtmg-workers-js",
   "version": "0.0.0",
   "devDependencies": {
-    "wrangler": "^4.0.0"
+    "wrangler": "^4.164.0"
   },
   "private": true,
   "scripts": {
